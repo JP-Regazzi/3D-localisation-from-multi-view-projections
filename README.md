@@ -1,4 +1,4 @@
-# Project-s7--3D-X-ray-detection
+# 3D localisation from multi-view X-ray projections
 
 ## Overview
 This project, conducted in collaboration with SAFRAN R&T, aims to develop a geometry-based model for detecting 3D indications from X-ray multi-view images. By leveraging the LIDC-IDRI dataset, which is a valuable resource for advancing research in lung cancer detection, our objective is to implement state-of-the-art techniques in computer vision and deep learning to accurately identify indications in X-ray images.
